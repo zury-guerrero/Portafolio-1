@@ -267,9 +267,8 @@ body::-webkit-scrollbar-track {
 .about__me .image img {
     height: 100%;
     width: 100%;
-    
-    object-fit: cover;
 }
+
 .text-a{
     color: var(--bg-color);
 }
